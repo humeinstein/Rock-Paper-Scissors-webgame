@@ -10,3 +10,4 @@ First Project V1.0
 
 Take a look and feel free to use this code for practice or upgrade and/or customize the project yourself.
      
+<img src="https://pbs.twimg.com/media/DklBKCiU0AAMCtt.jpg:large">
